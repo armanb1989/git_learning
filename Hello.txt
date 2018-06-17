@@ -1,4 +1,4 @@
 Hello, World!
-New string.
+New st
 
 // comments
